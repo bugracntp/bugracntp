@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Buğra Çantepe
 - 👀 I’m interested in developing applications 
 - 🌱 I’m currently learning django on python, .net framework on c#, java
-- 📫 How to reach me, can123.bugra@gmail.com
+- 📫 How to reach me, **can123.bugra@gmail.com**
 
 <a href="https://www.linkedin.com/in/bugra-cantepe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-can-altunbaş/" height="30" width="40" /></a>
 
