@@ -8,4 +8,4 @@ Software developer with two years of experience and university education in auto
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
+<img width="0" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
