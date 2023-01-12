@@ -67,6 +67,7 @@ Software developer with two years of experience and university education in auto
 </details>
 
 
+
 <!--🚧 **my todoist stats:**
 TODO-IST:START
 🏆  7,995 Karma Points           
@@ -75,7 +76,8 @@ TODO-IST:START
 ⏳  Longest streak is 10 days
  TODO-IST:END -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> my github stats
+- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> my github stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bugracntp&theme=dark&background=000000)](https://git.io/streak-stats)
