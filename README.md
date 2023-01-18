@@ -31,7 +31,7 @@ Software developer with two years of experience and university education in auto
         <br><br>
         <b>Database:</b>
         <br><br>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/></code>
+        <code><img height="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/></code>
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
         <code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/></code>
         <br><br>
@@ -39,6 +39,7 @@ Software developer with two years of experience and university education in auto
         <br><br>
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/></code> 
+       
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/></code>
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"/></code>
         <code><img height="40" src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png"/></code>
