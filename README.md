@@ -80,4 +80,10 @@ TODO-IST:START
 
 - <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> my github stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bugracntp&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p >
+    <a href="https://github.com/nurgulsezgin" target="_blank">
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=bugracntp&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugracntp&layout=compact&theme=vision-friendly-dark"/>
+    </a>
+</p>
