@@ -4,14 +4,20 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I’m Buğra Çantepe
 
 <br />
-Software developer with two years of experience and university education in automation systems and OOP programming wicth is c# and java. He is a passionate developer who is oriented towards web programming and is open to learning new technologies in this area. Enjoys adapting to collaborative work and exchange of knowledge and experience.
+I am currently working as a fullstack developer on an online
+reservation application, focusing on web technologies. I
+actively share the projects I develop on my GitHub page. I have
+experience with C#, Python, JavaScript, TypeScript, and
+front-end technologies such as HTML and CSS. I am also
+skilled in using ASP.NET Framework, Node.js, and various
+databases like MSSQL, PostgreSQL, MySQL, and MongoDB.
+Additionally, I develop user-friendly interfaces using modern
+frontend tools like Vue.js. I value teamwork and believe in
+achieving success through collaboration.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-<a href="https://www.linkedin.com/in/bugra-cantepe/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bugracntp.bugracntp)  
 
