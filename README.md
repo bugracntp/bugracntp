@@ -61,7 +61,7 @@ achieving success through collaboration.
         <br>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,dotnet,vue,gcp,nodejs,react,npm,postman,express,nextjs,selenium&perline=4" />
+            <img src="https://skillicons.dev/icons?i=git,github,dotnet,gcp,nodejs,vue,react,npm,express,nextjs,postman,selenium&perline=6" />
           </a>
         </p>
         <br>
