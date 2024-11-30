@@ -27,48 +27,44 @@ achieving success through collaboration.
       <p align="left">
       <br />
         <b>Languages:</b>
-        <br><br>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/></code>
-        <br><br>
+        <br>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=cs,ts,js,py,java" />
+          </a>
+        </p>
+        <br>
         <b>Database:</b>
-        <br><br>
-        <code><img height="40" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-        <code><img height="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/></code>
-        <br><br>
+        <br>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+          </a>
+        </p>
         <b>IDE's:</b>
-        <br><br>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></code>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"/></code> 
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/></code>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"/></code>
-        <code><img height="40" src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png"/></code>
-        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png"/></code>
-        <br><br>
+        <br>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode,pycharm, idea, eclipse,anaconda" />
+          </a>
+        </p>
+        <br>
         <b>Operating systems:</b>
-        <br><br>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
-        <code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png"/></code>
-        <code><img height="40" src="https://preview.redd.it/ne6ukkej06t71.png?auto=webp&s=fbdc1cb1d60306fba3098f7b75a8e01812a97ada"/></code>
-        <br><br>
+        <br>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=windows,apple,linux,ubuntu" />
+          </a>
+        </p>
+        <br>
         <b>Tools and Frameworks:</b>
-        <br><br>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-        <code><img height="40" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"/></code>
-        <code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code>
-        <br><br>
-        <b>Libraries:</b>
-        <br><br>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/></code>
-        <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/></code> 
-        <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"/></code>
+        <br>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,dotnet,vue,gcp,nodejs,react,npm,postman,express,nextjs,selenium&perline=4" />
+          </a>
+        </p>
+        <br>
       </p>
 </details>
 
